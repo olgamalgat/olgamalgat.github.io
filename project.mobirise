@@ -178,7 +178,7 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#232323"
+              "color": "#efefef"
             }
           },
           "_name": "content5",
